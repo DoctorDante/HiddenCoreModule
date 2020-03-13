@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HiddenCore Module</string>
+    <string name="app_description">Bypass SafetyNet, Disable RootDetection, Disable Selinux Detection, Bypass Signature, Allow all Fake Gps setting Value on Android 6+, HideMock Location, Hide Xposed detection, etc .</string>
+</resources>
